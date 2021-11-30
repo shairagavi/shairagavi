@@ -1,0 +1,19 @@
+{
+  "name": "shairagavi",
+  "version": "1.0.0",
+  "description": "Github profile README for @shairagavi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shairagavi/shairagavi.git"
+  },
+  "author": "Shairagavi Selvachandran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shairagavi/shairagavi/issues"
+  },
+  "homepage": "https://github.com/shairagavi/shairagavi#readme"
+}
