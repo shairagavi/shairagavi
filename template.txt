@@ -14,7 +14,7 @@
 ## Channels
 Click on a TV show to change the channel! 📺
 
-<img align="right" width="600" src="{{url}}">
+<img align="right" width="575" src="{{url}}">
 
 TV Shows | 
 -------- |
