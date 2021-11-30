@@ -14,26 +14,26 @@
 ## Channels
 Click on a TV show to change the channel! 📺
 
-<img align="right" width="500" src="https://media2.giphy.com/media/TgMTNhqJZ17iab5oh3/giphy.gif?cid=82ea943c0024ad79d1f885d98e25545a7eb1a0bb09b590e8&rid=giphy.gif&ct=g">
+<img align="right" width="500" src="https://media1.giphy.com/media/Zvw675pKMgo2qTmcWR/giphy.gif?cid=82ea943cf66cbb5b9872942f0cbeabe359a72b7be9ca7e62&rid=giphy.gif&ct=g">
 
 TV Shows | 
 -------- |
-[**Arrested Development**](https://github.com/shairagavi/profile-practice/issues/new?title=arrested-development&body=Click+`Submit+new+issue`+to+change+the+channel!) |
-[**Avatar: The Last Airbender**](https://github.com/shairagavi/profile-practice/issues/new?title=avatar-the-last-airbender&body=Click+`Submit+new+issue`+to+change+the+channel!) | 
-[**Brooklyn Nine-Nine**](https://github.com/shairagavi/profile-practice/issues/new?title=brooklyn-nine-nine&body=Click+`Submit+new+issue`+to+change+the+channel!) | 
-[**Community**](https://github.com/shairagavi/profile-practice/issues/new?title=community&body=Click+`Submit+new+issue`+to+change+the+channel!) | 
-[**Friends**](https://github.com/shairagavi/profile-practice/issues/new?title=friends&body=Click+`Submit+new+issue`+to+change+the+channel!) | 
-[**How I Met Your Mother**](https://github.com/shairagavi/profile-practice/issues/new?title=how-i-met-yourmother&body=Click+`Submit+new+issue`+to+change+the+channel!) | 
-[**Kim's Convenience**](https://github.com/shairagavi/profile-practice/issues/new?title=kims-convenience&body=Click+`Submit+new+issue`+to+change+the+channel!) | 
-[**Modern Family**](https://github.com/shairagavi/profile-practice/issues/new?title=modern-family&body=Click+`Submit+new+issue`+to+change+the+channel!) | 
-[**New Girl**](https://github.com/shairagavi/profile-practice/issues/new?title=new-girl&body=Click+`Submit+new+issue`+to+change+the+channel!) | 
-[**Parks and Recreation**](https://github.com/shairagavi/profile-practice/issues/new?title=parks-and-recreation&body=Click+`Submit+new+issue`+to+change+the+channel!) | 
-[**Saturday Night Live**](https://github.com/shairagavi/profile-practice/issues/new?title=saturday-night-live&body=Click+`Submit+new+issue`+to+change+the+channel!) | 
-[**Schitt's Creek**](https://github.com/shairagavi/profile-practice/issues/new?title=schitts-creek&body=Click+`Submit+new+issue`+to+change+the+channel!) |
-[**Sherlock**](https://github.com/shairagavi/profile-practice/issues/new?title=sherlock&body=Click+`Submit+new+issue`+to+change+the+channel!) |
-[**SpongeBob SquarePants**](https://github.com/shairagavi/profile-practice/issues/new?title=spongebob&body=Click+`Submit+new+issue`+to+change+the+channel!) |
-[**Stranger Things**](https://github.com/shairagavi/profile-practice/issues/new?title=stranger-things&body=Click+`Submit+new+issue`+to+change+the+channel!) |
-[**The Good Place**](https://github.com/shairagavi/profile-practice/issues/new?title=the-good-place&body=Click+`Submit+new+issue`+to+change+the+channel!) |
-[**The Office**](https://github.com/shairagavi/profile-practice/issues/new?title=the-office&body=Click+`Submit+new+issue`+to+change+the+channel!) |
-[**The Walking Dead**](https://github.com/shairagavi/profile-practice/issues/new?title=the-walking-dead&body=Click+`Submit+new+issue`+to+change+the+channel!) |
-[**WandaVision**](https://github.com/shairagavi/profile-practice/issues/new?title=wandavision&body=Click+`Submit+new+issue`+to+change+the+channel!) |
+[**Arrested Development**](https://github.com/shairagavi/shairagavi/issues/new?title=arrested-development&body=Click+`Submit+new+issue`+to+change+the+channel!) |
+[**Avatar: The Last Airbender**](https://github.com/shairagavi/shairagavi/issues/new?title=avatar-the-last-airbender&body=Click+`Submit+new+issue`+to+change+the+channel!) | 
+[**Brooklyn Nine-Nine**](https://github.com/shairagavi/shairagavi/issues/new?title=brooklyn-nine-nine&body=Click+`Submit+new+issue`+to+change+the+channel!) | 
+[**Community**](https://github.com/shairagavi/shairagavi/issues/new?title=community&body=Click+`Submit+new+issue`+to+change+the+channel!) | 
+[**Friends**](https://github.com/shairagavi/shairagavi/issues/new?title=friends&body=Click+`Submit+new+issue`+to+change+the+channel!) | 
+[**How I Met Your Mother**](https://github.com/shairagavi/shairagavi/issues/new?title=how-i-met-yourmother&body=Click+`Submit+new+issue`+to+change+the+channel!) | 
+[**Kim's Convenience**](https://github.com/shairagavi/shairagavi/issues/new?title=kims-convenience&body=Click+`Submit+new+issue`+to+change+the+channel!) | 
+[**Modern Family**](https://github.com/shairagavi/shairagavi/issues/new?title=modern-family&body=Click+`Submit+new+issue`+to+change+the+channel!) | 
+[**New Girl**](https://github.com/shairagavi/shairagavi/issues/new?title=new-girl&body=Click+`Submit+new+issue`+to+change+the+channel!) | 
+[**Parks and Recreation**](https://github.com/shairagavi/shairagavi/issues/new?title=parks-and-recreation&body=Click+`Submit+new+issue`+to+change+the+channel!) | 
+[**Saturday Night Live**](https://github.com/shairagavi/shairagavi/issues/new?title=saturday-night-live&body=Click+`Submit+new+issue`+to+change+the+channel!) | 
+[**Schitt's Creek**](https://github.com/shairagavi/shairagavi/issues/new?title=schitts-creek&body=Click+`Submit+new+issue`+to+change+the+channel!) |
+[**Sherlock**](https://github.com/shairagavi/shairagavi/issues/new?title=sherlock&body=Click+`Submit+new+issue`+to+change+the+channel!) |
+[**SpongeBob SquarePants**](https://github.com/shairagavi/shairagavi/issues/new?title=spongebob&body=Click+`Submit+new+issue`+to+change+the+channel!) |
+[**Stranger Things**](https://github.com/shairagavi/shairagavi/issues/new?title=stranger-things&body=Click+`Submit+new+issue`+to+change+the+channel!) |
+[**The Good Place**](https://github.com/shairagavi/shairagavi/issues/new?title=the-good-place&body=Click+`Submit+new+issue`+to+change+the+channel!) |
+[**The Office**](https://github.com/shairagavi/shairagavi/issues/new?title=the-office&body=Click+`Submit+new+issue`+to+change+the+channel!) |
+[**The Walking Dead**](https://github.com/shairagavi/shairagavi/issues/new?title=the-walking-dead&body=Click+`Submit+new+issue`+to+change+the+channel!) |
+[**WandaVision**](https://github.com/shairagavi/shairagavi/issues/new?title=wandavision&body=Click+`Submit+new+issue`+to+change+the+channel!) |
