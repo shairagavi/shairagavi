@@ -14,7 +14,7 @@
 ## Channels
 Click on a TV show to change the channel! 📺
 
-<img align="right" width="500" src="https://media2.giphy.com/media/TgMTNhqJZ17iab5oh3/giphy.gif?cid=82ea943c0024ad79d1f885d98e25545a7eb1a0bb09b590e8&rid=giphy.gif&ct=g">
+<img align="right" width="500" src="{{url}}">
 
 TV Shows | 
 -------- |
