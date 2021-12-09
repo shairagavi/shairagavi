@@ -1,4 +1,4 @@
-# Hey, I'm Shairagavi :wave:
+i# Hey, I'm Shairagavi :wave:
 
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:Shairagavi333@gmail.com) [<img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/shairagavi-selvachandran-009458176/) [<img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/shairagavi) [<img alt="Itch.io" src="https://img.shields.io/badge/Itch%20-%23FF0B34.svg?&style=for-the-badge&logo=Itch.io&logoColor=white"/>](https://shairagavi.itch.io/)
 
@@ -11,10 +11,10 @@
 - 💜 Interests: film/television, YA novels
 - 🏰 Hogwarts House: Gryffindor 🦁
 
-## Channels
+## Watch Television!
 Click on a TV show to change the channel! 📺
 
-<img align="right" width="575" src="https://media4.giphy.com/media/Id6QJo9XYTP0QOQUNV/giphy.gif?cid=82ea943cb9f05cb27eec9027e596924ad9940c3177bcdc78&rid=giphy.gif&ct=g">
+<img align="right" width="575" src="https://media3.giphy.com/media/j2lrqc55ecjLO/giphy.gif?cid=82ea943cc42ad4aad80d05b16c28df93061a57ef7f5a7137&rid=giphy.gif&ct=g">
 
 TV Shows | 
 -------- |
