@@ -7,14 +7,14 @@
 - 😄 Pronouns: she/her
 - 🔊 Pronunciation: **share-uh-gah-vee**
 - 🗺 Based in: Toronto, Canada
-- 🌱 Learning more about: at the moment this profile
-- 💜 Interests: film/television, YA novels
+- 🌱 Learning more about: data engineering
+- 💜 Interests: film/television, YA novels, Lego
 - 🏰 Hogwarts House: Gryffindor 🦁
 
 ## Watch Television!
 Click on a TV show to change the channel! 📺
 
-<img align="right" width="575" src="https://media3.giphy.com/media/ky16TkGK4RTs4/giphy.gif?cid=82ea943cd764ff18415b7d24a89b67b1ddc91cfa937f2a76&rid=giphy.gif&ct=g">
+<img align="right" width="575" src="https://media3.giphy.com/media/P6aKdAKHmBmSY/giphy.gif?cid=82ea943cc48e378e9cf333965e7681c4aef69d1058d9c245&rid=giphy.gif&ct=g">
 
 TV Shows | 
 -------- |
