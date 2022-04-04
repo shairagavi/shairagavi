@@ -14,7 +14,7 @@
 ## Watch Television!
 Click on a TV show to change the channel! 📺
 
-<img align="right" width="575" src="https://media3.giphy.com/media/P6aKdAKHmBmSY/giphy.gif?cid=82ea943cc48e378e9cf333965e7681c4aef69d1058d9c245&rid=giphy.gif&ct=g">
+<img align="right" width="575" src="https://media1.giphy.com/media/uCaFyOIvQsgeXVIKRT/giphy.gif?cid=82ea943c1c6b2a2ea8270b39aacfa0e4c4c952f1e0f0d5de&rid=giphy.gif&ct=g">
 
 TV Shows | 
 -------- |
@@ -30,9 +30,9 @@ TV Shows |
 [**Parks and Recreation**](https://github.com/shairagavi/shairagavi/issues/new?title=parks-and-recreation&body=Click+`Submit+new+issue`+to+change+the+channel!) | 
 [**Saturday Night Live**](https://github.com/shairagavi/shairagavi/issues/new?title=saturday-night-live&body=Click+`Submit+new+issue`+to+change+the+channel!) | 
 [**Schitt's Creek**](https://github.com/shairagavi/shairagavi/issues/new?title=schitts-creek&body=Click+`Submit+new+issue`+to+change+the+channel!) |
-[**Sherlock**](https://github.com/shairagavi/shairagavi/issues/new?title=sherlock&body=Click+`Submit+new+issue`+to+change+the+channel!) |
 [**SpongeBob SquarePants**](https://github.com/shairagavi/shairagavi/issues/new?title=spongebob&body=Click+`Submit+new+issue`+to+change+the+channel!) |
 [**Stranger Things**](https://github.com/shairagavi/shairagavi/issues/new?title=stranger-things&body=Click+`Submit+new+issue`+to+change+the+channel!) |
+[**Superstore**](https://github.com/shairagavi/shairagavi/issues/new?title=superstore&body=Click+`Submit+new+issue`+to+change+the+channel!) |
 [**The Good Place**](https://github.com/shairagavi/shairagavi/issues/new?title=the-good-place&body=Click+`Submit+new+issue`+to+change+the+channel!) |
 [**The Office**](https://github.com/shairagavi/shairagavi/issues/new?title=the-office&body=Click+`Submit+new+issue`+to+change+the+channel!) |
 [**The Walking Dead**](https://github.com/shairagavi/shairagavi/issues/new?title=the-walking-dead&body=Click+`Submit+new+issue`+to+change+the+channel!) |
