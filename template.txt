@@ -3,7 +3,7 @@
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:Shairagavi333@gmail.com) [<img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/shairagavi-selvachandran-009458176/) [<img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/shairagavi) [<img alt="Itch.io" src="https://img.shields.io/badge/Itch%20-%23FF0B34.svg?&style=for-the-badge&logo=Itch.io&logoColor=white"/>](https://shairagavi.itch.io/)
 
 - 💻 Dev Degree Intern @ [Shopify](https://www.shopify.ca/)
-- 📚 Computer Science Student @ [York University](https://www.yorku.ca/) (3rd Year)
+- 📚 Computer Science Student @ [York University](https://www.yorku.ca/) (4th Year)
 - 😄 Pronouns: she/her
 - 🔊 Pronunciation: **share-uh-gah-vee**
 - 🗺 Based in: Toronto, Canada
@@ -33,6 +33,7 @@ TV Shows |
 [**SpongeBob SquarePants**](https://github.com/shairagavi/shairagavi/issues/new?title=spongebob&body=Click+`Submit+new+issue`+to+change+the+channel!) |
 [**Stranger Things**](https://github.com/shairagavi/shairagavi/issues/new?title=stranger-things&body=Click+`Submit+new+issue`+to+change+the+channel!) |
 [**Superstore**](https://github.com/shairagavi/shairagavi/issues/new?title=superstore&body=Click+`Submit+new+issue`+to+change+the+channel!) |
+[**Ted Lasso**](https://github.com/shairagavi/shairagavi/issues/new?title=ted-lasso&body=Click+`Submit+new+issue`+to+change+the+channel!) |
 [**The Good Place**](https://github.com/shairagavi/shairagavi/issues/new?title=the-good-place&body=Click+`Submit+new+issue`+to+change+the+channel!) |
 [**The Office**](https://github.com/shairagavi/shairagavi/issues/new?title=the-office&body=Click+`Submit+new+issue`+to+change+the+channel!) |
 [**The Walking Dead**](https://github.com/shairagavi/shairagavi/issues/new?title=the-walking-dead&body=Click+`Submit+new+issue`+to+change+the+channel!) |
