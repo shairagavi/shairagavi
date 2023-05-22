@@ -2,8 +2,7 @@
 
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:Shairagavi333@gmail.com) [<img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/shairagavi-selvachandran-009458176/) [<img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/shairagavi) [<img alt="Itch.io" src="https://img.shields.io/badge/Itch%20-%23FF0B34.svg?&style=for-the-badge&logo=Itch.io&logoColor=white"/>](https://shairagavi.itch.io/)
 
-- 💻 Dev Degree Intern @ [Shopify](https://www.shopify.ca/)
-- 📚 Computer Science Student @ [York University](https://www.yorku.ca/) (4th Year)
+- 💻 Backend Developer @ [Shopify](https://www.shopify.ca/)
 - 😄 Pronouns: she/her
 - 🔊 Pronunciation: **share-uh-gah-vee**
 - 🗺 Based in: Toronto, Canada
@@ -14,7 +13,7 @@
 ## Watch Television!
 Click on a TV show to change the channel! 📺
 
-<img align="right" width="575" src="https://media4.giphy.com/media/l3q2TGUQKaWVGZvH2/giphy.gif?cid=82ea943ccf255e6271ffaf8aca5414f7dcc458c16a428650&rid=giphy.gif&ct=g">
+<img align="right" width="575" src="https://media3.giphy.com/media/QDUrP0BtuuMUw/giphy.gif?cid=82ea943c8477f9d53d495d6692eaa43a17f74aba0be6758e&ep=v1_gifs_random&rid=giphy.gif&ct=g">
 
 TV Shows | 
 -------- |
@@ -23,7 +22,7 @@ TV Shows |
 [**Brooklyn Nine-Nine**](https://github.com/shairagavi/shairagavi/issues/new?title=brooklyn-nine-nine&body=Click+`Submit+new+issue`+to+change+the+channel!) | 
 [**Community**](https://github.com/shairagavi/shairagavi/issues/new?title=community&body=Click+`Submit+new+issue`+to+change+the+channel!) | 
 [**Friends**](https://github.com/shairagavi/shairagavi/issues/new?title=friends&body=Click+`Submit+new+issue`+to+change+the+channel!) | 
-[**How I Met Your Mother**](https://github.com/shairagavi/shairagavi/issues/new?title=how-i-met-yourmother&body=Click+`Submit+new+issue`+to+change+the+channel!) | 
+[**How I Met Your Mother**](https://github.com/shairagavi/shairagavi/issues/new?title=how-i-met-your-mother&body=Click+`Submit+new+issue`+to+change+the+channel!) | 
 [**Kim's Convenience**](https://github.com/shairagavi/shairagavi/issues/new?title=kims-convenience&body=Click+`Submit+new+issue`+to+change+the+channel!) | 
 [**Modern Family**](https://github.com/shairagavi/shairagavi/issues/new?title=modern-family&body=Click+`Submit+new+issue`+to+change+the+channel!) | 
 [**New Girl**](https://github.com/shairagavi/shairagavi/issues/new?title=new-girl&body=Click+`Submit+new+issue`+to+change+the+channel!) | 
