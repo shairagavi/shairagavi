@@ -13,7 +13,7 @@
 ## Watch Television!
 Click on a TV show to change the channel! 📺
 
-<img align="right" width="575" src="https://media4.giphy.com/media/hFYfoYlF8iVamnboLN/giphy.gif?cid=82ea943ch2fxzet40tgf386f0g590l28oo1146nmqyriwxsm&ep=v1_gifs_random&rid=giphy.gif&ct=g">
+<img align="right" width="575" src="https://media0.giphy.com/media/arKAOElAQxszte7YfJ/giphy.gif?cid=82ea943cwx941uw4azjiae5fk0cqijv255yjc0tbvbwvk4r6&ep=v1_gifs_random&rid=giphy.gif&ct=g">
 
 TV Shows | 
 -------- |
@@ -33,6 +33,7 @@ TV Shows |
 [**Stranger Things**](https://github.com/shairagavi/shairagavi/issues/new?title=stranger-things&body=Click+`Submit+new+issue`+to+change+the+channel!) |
 [**Superstore**](https://github.com/shairagavi/shairagavi/issues/new?title=superstore&body=Click+`Submit+new+issue`+to+change+the+channel!) |
 [**Ted Lasso**](https://github.com/shairagavi/shairagavi/issues/new?title=ted-lasso&body=Click+`Submit+new+issue`+to+change+the+channel!) |
+[**The Bear**](https://github.com/shairagavi/shairagavi/issues/new?title=the-bear&body=Click+`Submit+new+issue`+to+change+the+channel!) |
 [**The Good Place**](https://github.com/shairagavi/shairagavi/issues/new?title=the-good-place&body=Click+`Submit+new+issue`+to+change+the+channel!) |
 [**The Office**](https://github.com/shairagavi/shairagavi/issues/new?title=the-office&body=Click+`Submit+new+issue`+to+change+the+channel!) |
 [**The Walking Dead**](https://github.com/shairagavi/shairagavi/issues/new?title=the-walking-dead&body=Click+`Submit+new+issue`+to+change+the+channel!) |
