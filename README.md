@@ -11,7 +11,7 @@
 - 🏰 Hogwarts House: Gryffindor 🦁
 
 ## Watch Television!
-Click on a TV show to change the channel! 📺
+Click on a TV show to "change the channel" (change the GIF)! 📺
 
 <img align="right" width="575" src="https://media0.giphy.com/media/v1.Y2lkPTgyZWE5NDNjZHk5MWhnNjU1aG02dDlwYXoxMmtreXU2bnRnNXR4dWo0dnI0YWE1biZlcD12MV9naWZzX3JhbmRvbSZjdD1n/LrMTLukmpcDdxBW6gd/giphy.gif">
 
