@@ -29,7 +29,7 @@ TV Shows |
 [**Parks and Recreation**](https://github.com/shairagavi/shairagavi/issues/new?title=parks-and-recreation&body=Click+`Submit+new+issue`+to+change+the+channel!) | 
 [**Saturday Night Live**](https://github.com/shairagavi/shairagavi/issues/new?title=saturday-night-live&body=Click+`Submit+new+issue`+to+change+the+channel!) | 
 [**Schitt's Creek**](https://github.com/shairagavi/shairagavi/issues/new?title=schitts-creek&body=Click+`Submit+new+issue`+to+change+the+channel!) |
-[**Severance**](https://github.com/shairagavi/shairagavi/issues/new?title=severance&body=Click+`Submit+new+issue`+to+change+the+channel!) |
+[**Severance**](https://github.com/shairagavi/shairagavi/issues/new?title=severance-apple&body=Click+`Submit+new+issue`+to+change+the+channel!) |
 [**SpongeBob SquarePants**](https://github.com/shairagavi/shairagavi/issues/new?title=spongebob&body=Click+`Submit+new+issue`+to+change+the+channel!) |
 [**Stranger Things**](https://github.com/shairagavi/shairagavi/issues/new?title=stranger-things&body=Click+`Submit+new+issue`+to+change+the+channel!) |
 [**Superstore**](https://github.com/shairagavi/shairagavi/issues/new?title=superstore&body=Click+`Submit+new+issue`+to+change+the+channel!) |
