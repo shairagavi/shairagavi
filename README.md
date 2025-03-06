@@ -13,7 +13,7 @@
 ## Watch Television!
 Click on a TV show to change the channel! 📺
 
-<img align="right" width="575" src="https://media1.giphy.com/media/ijEjxHuuWgdyM/giphy.gif?cid=82ea943cf7d1vr9ti3alscawfzroistvbe1aduohfrbtov20&ep=v1_gifs_random&rid=giphy.gif&ct=g">
+<img align="right" width="575" src="https://media4.giphy.com/media/v1.Y2lkPTgyZWE5NDNjNXEzc2U3YTRtZ29ncmUwOWV0NnZ1a2hnZ2c2OWhwcmd2MzNneGdnaCZlcD12MV9naWZzX3JhbmRvbSZjdD1n/78grZp3UAB6YS7JJE6/giphy.gif">
 
 TV Shows | 
 -------- |
@@ -29,6 +29,7 @@ TV Shows |
 [**Parks and Recreation**](https://github.com/shairagavi/shairagavi/issues/new?title=parks-and-recreation&body=Click+`Submit+new+issue`+to+change+the+channel!) | 
 [**Saturday Night Live**](https://github.com/shairagavi/shairagavi/issues/new?title=saturday-night-live&body=Click+`Submit+new+issue`+to+change+the+channel!) | 
 [**Schitt's Creek**](https://github.com/shairagavi/shairagavi/issues/new?title=schitts-creek&body=Click+`Submit+new+issue`+to+change+the+channel!) |
+[**Severance**](https://github.com/shairagavi/shairagavi/issues/new?title=severance&body=Click+`Submit+new+issue`+to+change+the+channel!) |
 [**SpongeBob SquarePants**](https://github.com/shairagavi/shairagavi/issues/new?title=spongebob&body=Click+`Submit+new+issue`+to+change+the+channel!) |
 [**Stranger Things**](https://github.com/shairagavi/shairagavi/issues/new?title=stranger-things&body=Click+`Submit+new+issue`+to+change+the+channel!) |
 [**Superstore**](https://github.com/shairagavi/shairagavi/issues/new?title=superstore&body=Click+`Submit+new+issue`+to+change+the+channel!) |
