@@ -2,18 +2,18 @@
 
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:Shairagavi333@gmail.com) [<img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/shairagavi/) [<img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/shairagavi) [<img alt="Itch.io" src="https://img.shields.io/badge/Itch%20-%23FF0B34.svg?&style=for-the-badge&logo=Itch.io&logoColor=white"/>](https://shairagavi.itch.io/)
 
-- 💻 Backend Developer @ [Shopify](https://www.shopify.ca/)
+- 💻 Senior Software Engineer @ [Shopify](https://www.shopify.ca/)
 - 😄 Pronouns: she/her
 - 🔊 Pronunciation: **share-uh-gah-vee**
 - 🗺 Based in: Toronto, Canada
 - 🌱 Learning more about: Ruby on Rails
-- 💜 Interests: film/television, YA novels, Lego
+- 💜 Interests: film/television, YA novels, Lego, baseball (Toronto Blue Jays)
 - 🏰 Hogwarts House: Gryffindor 🦁
 
 ## Watch Television!
 Click on a TV show to "change the channel" (change the GIF)! 📺
 
-<img align="right" width="575" src="https://media0.giphy.com/media/v1.Y2lkPTgyZWE5NDNjc3picnE0aTJ3ZnRqemF0cDNwcnR1NnczeWpwY3JyMHYxdnZpNDAwOCZlcD12MV9naWZzX3JhbmRvbSZjdD1n/ZApVuawvjW5eLcPSvR/giphy.gif">
+<img align="right" width="575" src="https://media3.giphy.com/media/v1.Y2lkPTgyZWE5NDNjeW1qb25tb3Zta2Uyamd1eHMzYTdveW5vamF3N3J1Y3c5dThteDY3MCZlcD12MV9naWZzX3JhbmRvbSZjdD1n/mCIaNyBIbL7C4zjcRd/giphy.gif">
 
 TV Shows | 
 -------- |
